@@ -1,0 +1,21 @@
+.products-table table{
+    width: 100%;
+}
+
+.products-table thead,
+.products-table tfoot {
+    background-color: rgb(187, 229, 255);
+}
+
+.products-table th, .products-table td {
+    padding: auto;
+    width: 150px;
+}
+
+table .par {
+    background-color: rgb(237, 237, 237);
+}
+
+table .impar {
+    background-color: rgb(213, 212, 212);
+}
